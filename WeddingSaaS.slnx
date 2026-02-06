@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WeddingSaaS.Api/WeddingSaaS.Api.csproj" />
+  <Project Path="WeddingSaaS.Application/WeddingSaaS.Application.csproj" />
+  <Project Path="WeddingSaaS.Core/WeddingSaaS.Core.csproj" />
+  <Project Path="WeddingSaaS.Infrastructure/WeddingSaaS.Infrastructure.csproj" />
+</Solution>
