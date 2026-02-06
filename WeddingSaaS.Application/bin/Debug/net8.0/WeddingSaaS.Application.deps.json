@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeddingSaaS.Application/1.0.0": {
+        "dependencies": {
+          "WeddingSaaS.Core": "1.0.0"
+        },
+        "runtime": {
+          "WeddingSaaS.Application.dll": {}
+        }
+      },
+      "WeddingSaaS.Core/1.0.0": {
+        "runtime": {
+          "WeddingSaaS.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeddingSaaS.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeddingSaaS.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/bin/Debug/net8.0/WeddingSaaS.Application.deps.json
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/bin/Debug/net8.0/WeddingSaaS.Application.dll
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/bin/Debug/net8.0/WeddingSaaS.Application.pdb
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/bin/Debug/net8.0/WeddingSaaS.Core.dll
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/bin/Debug/net8.0/WeddingSaaS.Core.pdb
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/obj/Debug/net8.0/WeddingSaaS.Application.csproj.AssemblyReference.cache
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/obj/Debug/net8.0/WeddingSaaS.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/obj/Debug/net8.0/WeddingSaaS.Application.AssemblyInfoInputs.cache
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/obj/Debug/net8.0/WeddingSaaS.Application.AssemblyInfo.cs
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/obj/Debug/net8.0/WeddingSaaS.Application.csproj.CoreCompileInputs.cache
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/obj/Debug/net8.0/WeddingSaaS.Application.sourcelink.json
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/obj/Debug/net8.0/WeddingS.28360974.Up2Date
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/obj/Debug/net8.0/WeddingSaaS.Application.dll
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/obj/Debug/net8.0/refint/WeddingSaaS.Application.dll
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/obj/Debug/net8.0/WeddingSaaS.Application.pdb
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Application/obj/Debug/net8.0/ref/WeddingSaaS.Application.dll

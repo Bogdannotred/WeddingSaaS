@@ -1,4 +1,4 @@
-namespace WeddingSaas.Core.Entities;
+namespace WeddingSaaS.Core.Entities;
 
 public class Wedding
 {

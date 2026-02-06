@@ -1,0 +1,12 @@
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/obj/Debug/net8.0/WeddingSaaS.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/obj/Debug/net8.0/WeddingSaaS.Core.AssemblyInfoInputs.cache
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/obj/Debug/net8.0/WeddingSaaS.Core.AssemblyInfo.cs
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/obj/Debug/net8.0/WeddingSaaS.Core.csproj.CoreCompileInputs.cache
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/obj/Debug/net8.0/WeddingSaaS.Core.sourcelink.json
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/bin/Debug/net8.0/WeddingSaaS.Core.deps.json
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/bin/Debug/net8.0/WeddingSaaS.Core.dll
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/bin/Debug/net8.0/WeddingSaaS.Core.pdb
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/obj/Debug/net8.0/WeddingSaaS.Core.dll
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/obj/Debug/net8.0/refint/WeddingSaaS.Core.dll
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/obj/Debug/net8.0/WeddingSaaS.Core.pdb
+/Users/bogdy2k/Desktop/Projects/WeddingSaaS/WeddingSaaS.Core/obj/Debug/net8.0/ref/WeddingSaaS.Core.dll
